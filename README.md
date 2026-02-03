@@ -117,17 +117,6 @@
 
 ---
 
-## 📈 GitHub статистика
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elyfaUniverse&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elyfaUniverse&layout=compact&theme=radical)
-  
-</div>
-
----
 
 ## 🎨 Последние проекты
 
@@ -138,10 +127,4 @@
 
 ---
 
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=elyfaUniverse&color=blueviolet" alt="Profile Views">
-  
-  **"Код — это поэзия логики"**
-  
-</div>
+
