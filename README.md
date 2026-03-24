@@ -86,9 +86,7 @@
 ## 📞 Контакты
 
 <div align="left">
-  <a href="tel:+79320043543">
-    <img src="https://img.shields.io/badge/Телефон-8 932 004-35-43-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Телефон">
-  </a>
+    
   
   <a href="mailto:elyfa@yandex.ru">
     <img src="https://img.shields.io/badge/Email-elyfa@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
