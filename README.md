@@ -104,13 +104,5 @@
 ---
 
 
-## 🎨 Последние проекты
-
-### 🚀 Автоматизация для сайта на Tilda
-- **Технологии:** n8n, Airtable, OpenRouter, JavaScript
-- **Описание:** Два процесса автоматизации для сайта на платформе Tilda
-- **[Ссылка на проект](https://github.com/elyfaUniverse/project_n8n/tree/n8n)**
-
----
 
 
