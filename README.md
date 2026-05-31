@@ -10,9 +10,6 @@
 Совмещение знаний в Data Engineering, машинном обучении и фронтенд-разработке для создания интеллектуальных систем, решающих реальные задачи.
 
 ---
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ## Технические навыки
 
 ### Программирование и анализ данных
@@ -40,7 +37,6 @@
 
 ---
 
-
 ## 🎓 Образование
 
 ### 🏫 НИУ ВШЭ (Высшая школа экономики)
@@ -62,7 +58,6 @@
 **Год окончания:** 2025
 
 ---
-
 
 ## 🌟 Обо мне
 
