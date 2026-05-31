@@ -73,23 +73,8 @@
 ---
 
 ## 📞 Контакты
-
-<div align="left">
-    
-  
-  <a href="mailto:elyfa@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-elyfa@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  
-  <a href="https://github.com/elyfaUniverse">
-    <img src="https://img.shields.io/badge/GitHub-elyfaUniverse-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  
-  <a href="https://t.me/Aconitum_Aska">
-    <img src="https://img.shields.io/badge/Telegram-@Aconitum_Aska-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</div>
-
+---
+elyfa@yandex.ru">
 ---
 
 
