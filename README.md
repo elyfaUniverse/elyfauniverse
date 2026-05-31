@@ -74,7 +74,7 @@
 
 ## 📞 Контакты
 ---
-elyfa@yandex.ru">
+elyfa@yandex.ru
 ---
 
 
